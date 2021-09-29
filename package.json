@@ -1,0 +1,24 @@
+{
+  "name": "readorganizer-node-readability",
+  "version": "1.0.0",
+  "description": "ReadOrganizer helper used to obtain readability data using Node.JS ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReadOrganizer/readorganizer-node-readability.git"
+  },
+  "author": "Mirek Długosz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReadOrganizer/readorganizer-node-readability/issues"
+  },
+  "homepage": "https://github.com/ReadOrganizer/readorganizer-node-readability#readme",
+  "dependencies": {
+    "@mozilla/readability": "^0.4.1",
+    "dompurify": "^2.3.3",
+    "jsdom": "^17.0.0"
+  }
+}
