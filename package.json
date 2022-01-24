@@ -1,24 +1,23 @@
 {
-  "name": "readorganizer-node-readability",
+  "name": "kustosz-node-readability",
   "version": "1.0.0",
-  "description": "ReadOrganizer helper used to obtain readability data using Node.JS ecosystem",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Kustosz helper used to obtain readability data using Node.JS ecosystem",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ReadOrganizer/readorganizer-node-readability.git"
+    "url": "git+https://github.com/KustoszApp/kustosz-node-readability.git"
   },
-  "author": "Mirek Długosz",
-  "license": "ISC",
+  "author": "Mirek Długosz <mirek@mirekdlugosz.com> (https://mirekdlugosz.com)",
+  "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/ReadOrganizer/readorganizer-node-readability/issues"
+    "url": "https://github.com/KustoszApp/kustosz-node-readability/issues"
   },
-  "homepage": "https://github.com/ReadOrganizer/readorganizer-node-readability#readme",
+  "homepage": "https://github.com/KustoszApp/kustosz-node-readability",
   "dependencies": {
     "@mozilla/readability": "^0.4.1",
-    "dompurify": "^2.3.3",
-    "jsdom": "^17.0.0"
+    "dompurify": "^2.3.4",
+    "jsdom": "^19.0.0"
+  },
+  "bin": {
+      "kustosz-node-readability": "./index.js"
   }
 }
