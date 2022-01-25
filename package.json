@@ -7,7 +7,7 @@
     "url": "git+https://github.com/KustoszApp/kustosz-node-readability.git"
   },
   "author": "Mirek Długosz <mirek@mirekdlugosz.com> (https://mirekdlugosz.com)",
-  "license": "UNLICENSED",
+  "license": "EUPL-1.2",
   "bugs": {
     "url": "https://github.com/KustoszApp/kustosz-node-readability/issues"
   },

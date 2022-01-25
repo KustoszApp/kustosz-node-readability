@@ -1,4 +1,7 @@
 #!/usr/bin/env node
+// SPDX-FileCopyrightText: 2022 Mirek Długosz <mirek@mirekdlugosz.com>
+//
+// SPDX-License-Identifier: EUPL-1.2
 
 const readline = require('readline');
 const createDOMPurify = require('dompurify');
@@ -7,7 +10,7 @@ const { Readability } = require('@mozilla/readability');
 
 
 async function parseInput(data) {
-    parsedData = JSON.parse(data);
+    const parsedData = JSON.parse(data);
     keys = Object.keys(parsedData);
     if (!keys.includes('html') || !keys.includes('url')) {
         throw new SyntaxError('invalid JSON supplied');
