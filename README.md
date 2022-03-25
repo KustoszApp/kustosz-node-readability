@@ -1,3 +1,5 @@
+[![Kustosz](./kustosz_logo.svg)](https://www.kustosz.org)
+
 # kustosz-node-readability 
 
 Focus on the worthwhile content with Kustosz, open source self-hosted web application.
@@ -6,9 +8,13 @@ This repository contains helper used to obtain readability data using Node.JS ec
 
 ## Installation
 
+Install this package on host system:
+
 ```
 npm install -g kustosz-node-readability
 ```
+
+See [Kustosz installation documentation](https://docs.kustosz.org/en/stable/installation.html) for instructions on how to deploy or try Kustosz.
 
 ## License
 
