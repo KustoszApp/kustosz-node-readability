@@ -1,6 +1,9 @@
 {
   "name": "kustosz-node-readability",
   "version": "22.01.0",
+  "engines": {
+      "node": ">=12.0"
+  },
   "description": "Kustosz helper used to obtain readability data using Node.JS ecosystem",
   "repository": {
     "type": "git",
