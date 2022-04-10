@@ -16,8 +16,8 @@
   },
   "homepage": "https://github.com/KustoszApp/kustosz-node-readability",
   "dependencies": {
-    "@mozilla/readability": "^0.4.1",
-    "dompurify": "^2.3.4",
+    "@mozilla/readability": "^0.4.2",
+    "dompurify": "^2.3.6",
     "jsdom": "^19.0.0"
   },
   "bin": {
