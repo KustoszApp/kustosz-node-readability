@@ -2,7 +2,7 @@
   "name": "kustosz-node-readability",
   "version": "22.04.0",
   "engines": {
-      "node": ">=12.0"
+      "node": ">=14.0"
   },
   "description": "Kustosz helper used to obtain readability data using Node.JS ecosystem",
   "repository": {
@@ -14,10 +14,10 @@
   "bugs": {
     "url": "https://github.com/KustoszApp/kustosz-node-readability/issues"
   },
-  "homepage": "https://github.com/KustoszApp/kustosz-node-readability",
+  "homepage": "https://www.kustosz.org/",
   "dependencies": {
     "@mozilla/readability": "^0.4.2",
-    "dompurify": "^2.3.6",
+    "dompurify": "^2.3.8",
     "jsdom": "^19.0.0"
   },
   "bin": {
