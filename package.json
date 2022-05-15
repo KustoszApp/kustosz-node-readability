@@ -1,6 +1,6 @@
 {
   "name": "kustosz-node-readability",
-  "version": "22.05.0",
+  "version": "22.05.1",
   "engines": {
       "node": ">=14.0"
   },
