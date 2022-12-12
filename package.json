@@ -17,8 +17,8 @@
   "homepage": "https://www.kustosz.org/",
   "dependencies": {
     "@mozilla/readability": "^0.4.2",
-    "dompurify": "^2.3.8",
-    "jsdom": "^19.0.0"
+    "dompurify": "^2.4.1",
+    "jsdom": "^20.0.3"
   },
   "bin": {
       "kustosz-node-readability": "./index.js"
