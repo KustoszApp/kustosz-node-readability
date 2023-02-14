@@ -1,6 +1,6 @@
 [![Kustosz](./kustosz_logo.svg)](https://www.kustosz.org)
 
-![GitHub](https://img.shields.io/github/license/KustoszApp/kustosz-node-readability?color=green) ![node-lts](https://img.shields.io/node/v-lts/kustosz-node-readability) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/KustoszApp/kustosz-node-readability/CD?label=CI) ![GitHub issues](https://img.shields.io/github/issues/KustoszApp/kustosz-node-readability?color=green) ![GitHub pull requests](https://img.shields.io/github/issues-pr/KustoszApp/kustosz-node-readability) ![GitHub Repo stars](https://img.shields.io/github/stars/KustoszApp/kustosz-node-readability?color=green) ![GitHub last commit](https://img.shields.io/github/last-commit/KustoszApp/kustosz-node-readability)
+![GitHub](https://img.shields.io/github/license/KustoszApp/kustosz-node-readability?color=green) ![node-lts](https://img.shields.io/node/v-lts/kustosz-node-readability) ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/KustoszApp/kustosz-node-readability/cd.yml?label=CI) ![GitHub issues](https://img.shields.io/github/issues/KustoszApp/kustosz-node-readability?color=green) ![GitHub pull requests](https://img.shields.io/github/issues-pr/KustoszApp/kustosz-node-readability) ![GitHub Repo stars](https://img.shields.io/github/stars/KustoszApp/kustosz-node-readability?color=green) ![GitHub last commit](https://img.shields.io/github/last-commit/KustoszApp/kustosz-node-readability)
 
 # kustosz-node-readability 
 
